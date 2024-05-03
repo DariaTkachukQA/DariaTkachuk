@@ -10,6 +10,10 @@ You can esaily find me 📫
 
 ### Test-documentation
 
-[-Checklist](https://github.com/DariaTkachukQA/DariaTkachuk/blob/main/HW6%20Checlist%20for%20Ukrposhta.xlsx)
+[- Checklist](https://github.com/DariaTkachukQA/DariaTkachuk/blob/main/Checklist%20for%20Ukrposhta.pdf)
+
+[- Bug-reports](https://github.com/DariaTkachukQA/DariaTkachuk/blob/main/Bug-reports%20by%20Daria%20Tkachuk.pdf)
+
+[- Test cases](https://github.com/DariaTkachukQA/DariaTkachuk/blob/main/Test%20cases%20Go2Meet%20-%20Home%20page.pdf)
 
 
