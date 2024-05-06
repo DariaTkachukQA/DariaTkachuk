@@ -24,6 +24,19 @@ Responsibilities undertaken in the previous projects:
 - Communicated effectively with team members to provide status updates, report issues, and discuss testing strategies.
 - Actively participated in daily stand-up meetings, sprint planning, and retrospective meetings.
 
+Tools that were used:
+- Postman, Devtools, SoapUI, Charles Proxy 
+- JIRA, Bugzilla, Confluence 
+- Agile methodology (Scrum) 
+- My SQL, Oracle
+- Jmeter
+- UI Vision 
+- CI/ CD
+- Swagger
+- Android Studio 
+- Git, Github
+- HTML, CSS
+- Ligthshot
 ### Test-documentation
 
 [- Checklist](https://github.com/DariaTkachukQA/DariaTkachuk/blob/main/Checklist%20for%20Ukrposhta.pdf)
